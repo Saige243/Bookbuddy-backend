@@ -1,0 +1,11 @@
+{
+  "name": "bookbudbackend",
+  "version": "1.0.0",
+  "description": "bookbud backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saige Cross",
+  "license": "MIT"
+}
