@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>My App</h1>
+      <h1>Bookbud backend</h1>
     </div>
   );
 }
